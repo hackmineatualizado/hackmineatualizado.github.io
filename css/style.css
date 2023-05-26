@@ -1,1 +1,9 @@
 
+.suporte{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(0, 255, 0);
+}
+#cadastro-texto{
+    font-weight: bold !important;
+}
